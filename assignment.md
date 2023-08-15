@@ -35,7 +35,7 @@
 | GPU ID   | 0      | 1      | 
 | ----     | ----   | ---    | 
 | User     | 李昊颖  | 邓雅文 | 
-| Sub-User | -      | -      | 
+| Sub-User | -      | 覃科   | 
 
 </details>
 
