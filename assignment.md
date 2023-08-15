@@ -1,9 +1,7 @@
 # Server Info
 
-**ATTENTION: the User of GPU: 0 is the Manager of this Server**
-
 ## Server 01 
-**IP**: 10.12.13.231; **GPU Configuration**: 4 NVIDIA GeForce GTX 1080 Ti 
+**IP**: xx.xx.xx.231; **GPU Configuration**: 4 NVIDIA GeForce GTX 1080 Ti 
 
 <details>
 <summary>User Info</summary>
@@ -16,7 +14,7 @@
 </details>
 
 ## Server 02 
-**IP**: 10.12.13.234; **GPU Configuration**: 4 NVIDIA GeForce RTX 3090 
+**IP**: xx.xx.xx.234; **GPU Configuration**: 4 NVIDIA GeForce RTX 3090 
 
 <details>
 <summary>User Info</summary>
@@ -29,7 +27,7 @@
 </details>
 
 ## Server 03 
-**IP**: 10.12.13.237; **GPU Configuration**: 2 NVIDIA GeForce RTX 3090 
+**IP**: xx.xx.xx.237; **GPU Configuration**: 2 NVIDIA GeForce RTX 3090 
 
 <details>
 <summary>User Info</summary>
@@ -42,7 +40,7 @@
 </details>
 
 ## Server 04 
-**IP**: 10.12.13.239; **GPU Configuration**: 4 NVIDIA GeForce RTX 2080 Ti 
+**IP**: xx.xx.xx.239; **GPU Configuration**: 4 NVIDIA GeForce RTX 2080 Ti 
 
 <details>
 <summary>User Info</summary>
@@ -55,7 +53,7 @@
 </details>
 
 ## Zhejiang Lab Server 01
-**IP**: 10.11.64.219; **GPU Configuration**: 2 NVIDIA RTX A6000 
+**IP**: xx.xx.xx.219; **GPU Configuration**: 2 NVIDIA RTX A6000 
 
 <details>
 <summary>User Info</summary>
@@ -68,7 +66,7 @@
 </details>
 
 ## Zhejiang Lab Server 02
-**IP**: 10.11.64.218; **GPU Configuration**: 8 NVIDIA GeForce RTX 4090
+**IP**: xx.xx.xx.218; **GPU Configuration**: 8 NVIDIA GeForce RTX 4090
 
 <details>
 <summary>User Info</summary>
@@ -76,6 +74,6 @@
 | GPU ID   | 0      | 1      | 2     | 3        | 4       | 5       | 6     | 7      |
 | ----     | ----   | ---    | ----  | ---      | ----    | ---     | ----  | ---    |
 | User     | 胡海泉  | 金哲彦 | 徐南   |  徐佳晖  | 诸葛政跃 | 陈秭达  | 李孟灏 | 颜家璞 |
-| Sub-User | -      | -      | -     |  覃科     |  -     |  覃科   | -     | -     |
+| Sub-User | -      | -      | -     |  覃科     |  -     |  覃科    | -      | -     |
 
 </details>
